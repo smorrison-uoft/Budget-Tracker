@@ -49,4 +49,19 @@ body {
     width: 90%;
     margin: 0 auto;
   }
+
+  #clear-all-data {
+    margin: 0 auto;
+    width: 150px;
+    display: none;
+  }
+  
+  .clear-data {
+    color: black;
+    margin: 0 auto;
+  }
+  
+  .clear-data:hover {
+    cursor: pointer;
+  }
   
