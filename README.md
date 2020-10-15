@@ -7,4 +7,7 @@ Budget Tracker is a progressive web application that allows users to track their
 To start the server, run npm start. To access the app after starting the server, go to http://localhost:3000 in your browser.
 
 ## Example
+<img width="1414" alt="Screen Shot 2020-10-15 at 8 41 30 AM" src="https://user-images.githubusercontent.com/64607428/96179029-41999b80-0efe-11eb-84b5-bc2c7244101b.png">
 
+## Deployed App: 
+https://blooming-depths-08663.herokuapp.com/ 
